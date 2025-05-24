@@ -10,7 +10,7 @@ A beginner-friendly project to explore AI/ML concepts using Python. Includes exa
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/your-username/ai-learning.git
+git clone https://github.com/Sharad02/AI-Learning.git
 cd ai-learning
 
 uv venv
